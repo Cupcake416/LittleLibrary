@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "title":"百年孤独",
+        "author":"dsf",
+        "press":"dfsd",
+        "year":2021,
+        "price":12.3,
+        "stock":123,
+        "total":342,
+    },
+]

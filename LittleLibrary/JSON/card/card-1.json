@@ -1,0 +1,16 @@
+{
+    "name":"gaoweiyuan",
+    "unit":"ZJU",
+    "id":1,
+    "ctype":"student",
+    "borrows":[
+        {
+            "id": 1,
+            "cid": 1,
+            "bid": 1,
+            "borrowDate": "2121",
+            "returnDate": "2121",
+            "adminName": "gwy"
+        }
+    ],
+}
